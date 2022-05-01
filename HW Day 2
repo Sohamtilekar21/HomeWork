@@ -1,0 +1,24 @@
+a=input("Your name please ?")
+print(a)
+b=input("your age ?")
+print(b)
+=============================================
+print("enter decimal number")
+a=input()
+print(int(float(a)))
+#print(int(a))
+=============================================
+print("any integer and decimal ")
+a=(int(input()))
+b=(input())
+b=(float(b))
+c=(a+b)
+print(c)
+
+==============================================
+a=input("your name")
+b=input("age ?")
+print(a)
+print()
+print(b)        
+===============================================
