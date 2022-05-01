@@ -1,0 +1,14 @@
+a={1:1,2:4,3:9,4:16}
+"""b=str(a)
+b=b[::-1]
+b=dict(b)
+b[5]=25
+b=str(b)
+b=b[::-1]
+b=dict(b)
+print(b)"""
+b={5:25}
+b.update(a)
+print(str(b))
+c={**b,**a}
+print(str(c))
