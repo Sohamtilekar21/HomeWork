@@ -1,0 +1,34 @@
+print("A : \'Hi\t How are you?\' \n B : \'Hello\'" )
+==========================================================
+print("My,\' frien\'ds Raja\'s, Disha, Chinmay, Vikram, Charuwak ",'>30') 
+print("")
+print("My friends \nRajas \nDisha \nChinmay \nVikram \nCharuwak")
+print("\x96")
+a=int(input())
+print("hi, your number is ",a," is it right ?")
+help(round).
+==============================================================
+print("----")
+print("|  |")
+print("----")
+
+print("")
+
+print(" ^ ")
+print('/ \\')
+print("____")
+
+print("")
+
+print("   *   ")
+print("  ***  ")
+print(" ***** ")
+print("*******")
+
+print("")
+
+print("*******")
+print("*******")
+print("*******")
+print("*******")
+=====================================================
