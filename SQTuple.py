@@ -1,0 +1,10 @@
+a=(1,2,3,4,5)
+b=list(a)
+c=()
+c=list(c)
+for i in b :
+    c.append(i*i)
+c=tuple(c)
+print(a)
+print(c)
+print(type(c))
