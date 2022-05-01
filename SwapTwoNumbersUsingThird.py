@@ -1,0 +1,14 @@
+"""a=int(input())
+b=int(input())
+print(a)
+print(b)
+c=a
+a=b
+b=c
+print(a)
+print(b)"""
+f=int(input())
+g=int(input())
+f,g=g,f
+print(f)
+print(g)

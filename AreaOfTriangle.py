@@ -1,0 +1,20 @@
+a=int(input("side " ))
+b=int(input("height"))
+print("area",a*b*0.5)
+print("perimeter ", 3*a)
+print()
+print("area of eq. triangle")
+c=int(input('side'))
+print(" area is " ,((3**0.5)/4)*a*a)
+print("perimeter", 3*c)
+print()
+print("area of scalene triangle")
+d=int(input("side a"))
+e=int(input("side b"))
+f=int(input("side c"))
+s=(d+e+f)*0.5
+area=(s*(s-d)*(s-e)*(s-f))**0.5
+print('the area of the triangle is ' ,area)
+print('perimeter is', d+e+f)
+print()
+
